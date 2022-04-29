@@ -1,0 +1,4 @@
+# gitdirs
+
+Demo directory
+
